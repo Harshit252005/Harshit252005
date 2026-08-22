@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-* 🌱 I'm currently specializing in building scalable web architectures, caching layers, and integrating modern AI capabilities into full-stack applications.
+* 🌱 I'm currently specializing in building scalable web architectures, caching layers, and full-stack applications.
 * 🚀 Passionate about clean code, high-performance backend systems, and solving algorithmic problems.
 * 🎓 Graduating soon and actively looking for software engineering or full-stack development roles.
 
@@ -16,13 +16,7 @@
 * **Languages:** JavaScript, C++, Python, HTML5, CSS3
 * **Backend & Databases:** Node.js, Express.js, MongoDB, Redis, RESTful APIs
 * **Frontend:** React.js, Tailwind CSS, Responsive UI Design
-* **AI & Cloud Integration:** Google Gemini AI SDK, Render Deployment, Git/GitHub, Postman, VS Code
-
----
-
-### 🚀 Featured Projects
-* **[SkillForge LMS](https://github.com/Harshit252005/skillforge-ims)** — A full-stack learning management platform featuring secure user authentication, Razorpay payment integration, high-speed Redis caching, and an AI-powered ELI5 Concept Explainer built using the Google GenAI SDK.
-* **[NeetCode Submissions](https://github.com/Harshit252005/neetcode-submissions)** — A structured repository tracking algorithmic problem-solving progress and data structures/algorithms implementations in C++.
+* **Tools & Platforms:** Git, GitHub, VS Code, Postman, Render
 
 ---
 
