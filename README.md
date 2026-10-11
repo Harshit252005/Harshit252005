@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Hi, I'm Harshit Singh Bisht 👋</h1>
   <p><b>Computer Science & Engineering Student | Full-Stack & Applied AI Engineer</b></p>
-  <p>Building high-performance backend systems, distributed architectures, and autonomous AI agents.</p>
+  <p>Building high-performance backend systems, distributed architectures, data analytics engines, and autonomous AI agents.</p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 **Current Focus:** Building agentic RAG workflows, autonomous optimization agents, and scalable backend services.
-- ⚡ **Technical Strengths:** Backend architecture, relational database indexing & execution plans, and algorithmic problem-solving in C++.
-- 💼 **Looking for:** Software Development Engineer (SDE) and Full-Stack Engineering roles.
+- 🔭 **Current Focus:** Building agentic RAG workflows, autonomous database optimization agents, and high-speed analytical data engines.
+- ⚡ **Technical Strengths:** Backend architecture, analytical SQL (CTEs, Window Functions), relational database indexing & query execution plans, and algorithmic problem-solving in C++.
+- 💼 **Looking for:** Software Development Engineer (SDE), Data Engineering, and Backend Engineering roles.
 
 ---
 
@@ -19,6 +19,7 @@
 | :--- | :--- |
 | **Languages** | C++, Python, JavaScript (ES6+), TypeScript, SQL |
 | **Backend & Frameworks** | Node.js, Express.js, FastAPI, RESTful APIs |
+| **Data & Analytics** | DuckDB, Pandas, NumPy, Scikit-Learn, Streamlit, Tableau |
 | **AI & Orchestration** | LangGraph, LangChain, Google Gemini API, Model Context Protocol (MCP), ChromaDB |
 | **Databases & Caching** | PostgreSQL, MongoDB, Redis |
 | **Tools & Platforms** | Git, GitHub, Docker, Postman, Linux/Unix |
@@ -30,11 +31,17 @@
 #### 🩺 [DB-Doctor: PostgreSQL Optimization Agent](https://github.com/Harshit252005/db-doctor)
 * **Stack:** LangGraph, FastAPI, PostgreSQL (MCP), Google Gemini, ChromaDB, Streamlit
 * Autonomous database diagnostics agent that parses live PostgreSQL query execution plans (`EXPLAIN ANALYZE`) and suggests targeted B-tree indexing strategies.
-* Implemented a zero-trust conditional DAG edge to intercept and block destructive statements (`DROP`, `DELETE`) before execution.
+* Built with a zero-trust conditional DAG edge to intercept and block destructive statements (`DROP`, `DELETE`) before execution.
+
+#### 📊 FinTech Churn & Revenue Risk Analytics Engine
+* **Stack:** Python, DuckDB, Analytical SQL, Scikit-Learn, Streamlit, Tableau
+* Engineered an in-memory wealth analytics engine processing **60,000+ transactions** across **5,000 accounts** using **DuckDB** for low-latency SQL execution.
+* Authored complex analytical queries utilizing **CTEs and NTILE window functions** to segment accounts into 4 RFM (Recency, Frequency, Monetary) tiers.
+* Trained a **Gradient Boosting Classifier** achieving **89% accuracy** in predicting 30-day churn risk, deploying interactive Streamlit and Tableau BI dashboards to quantify high-risk revenue exposure.
 
 #### ⚡ [SkillForge: Full-Stack Learning Platform](https://github.com/Harshit252005)
 * **Stack:** React, Node.js, Express, MongoDB, Redis
-* Scalable e-learning platform with JWT authentication, media upload pipelines, and high-throughput Redis caching layers.
+* Scalable e-learning platform featuring JWT authentication, media processing pipelines, and high-throughput Redis caching layers.
 
 ---
 
