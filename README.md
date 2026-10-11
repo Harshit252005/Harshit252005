@@ -1,55 +1,43 @@
 <div align="center">
-  <h1>Hi there, I'm Harshit Singh Bisht 👋</h1>
-  <p><b>Final-Year Computer Science Engineering Student | Full-Stack Developer | C++ & JavaScript Enthusiast</b></p>
+  <h1>Hi, I'm Harshit Singh Bisht 👋</h1>
+  <p><b>Computer Science & Engineering Student | Full-Stack & Applied AI Engineer</b></p>
+  <p>Building high-performance backend systems, distributed architectures, and autonomous AI agents.</p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-* 🌱 I'm currently specializing in building scalable web architectures, caching layers, and full-stack applications.
-* 🚀 Passionate about clean code, high-performance backend systems, and solving algorithmic problems.
-* 🎓 Graduating soon and actively looking for software engineering or full-stack development roles.
+- 🔭 **Current Focus:** Building agentic RAG workflows, autonomous optimization agents, and scalable backend services.
+- ⚡ **Technical Strengths:** Backend architecture, relational database indexing & execution plans, and algorithmic problem-solving in C++.
+- 💼 **Looking for:** Software Development Engineer (SDE) and Full-Stack Engineering roles.
 
 ---
 
-### 🛠️ Technical Skill Set
+### 🛠️ Technical Arsenal
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studiocode&logoColor=white" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++, Python, JavaScript (ES6+), TypeScript, SQL |
+| **Backend & Frameworks** | Node.js, Express.js, FastAPI, RESTful APIs |
+| **AI & Orchestration** | LangGraph, LangChain, Google Gemini API, Model Context Protocol (MCP), ChromaDB |
+| **Databases & Caching** | PostgreSQL, MongoDB, Redis |
+| **Tools & Platforms** | Git, GitHub, Docker, Postman, Linux/Unix |
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshit252005&theme=radical&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
-</p>
+### 🚀 Featured Engineering Projects
+
+#### 🩺 [DB-Doctor: PostgreSQL Optimization Agent](https://github.com/Harshit252005/db-doctor)
+* **Stack:** LangGraph, FastAPI, PostgreSQL (MCP), Google Gemini, ChromaDB, Streamlit
+* Autonomous database diagnostics agent that parses live PostgreSQL query execution plans (`EXPLAIN ANALYZE`) and suggests targeted B-tree indexing strategies.
+* Implemented a zero-trust conditional DAG edge to intercept and block destructive statements (`DROP`, `DELETE`) before execution.
+
+#### ⚡ [SkillForge: Full-Stack Learning Platform](https://github.com/Harshit252005)
+* **Stack:** React, Node.js, Express, MongoDB, Redis
+* Scalable e-learning platform with JWT authentication, media upload pipelines, and high-throughput Redis caching layers.
 
 ---
 
-### 🧩 LeetCode Stats
-<p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/your_leetcode_username" alt="LeetCode Stats" />
-</p>
-
----
-
-### 📊 GitHub & Coding Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit252005&show_icons=true&theme=radical&hide_border=true" alt="Harshit's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit252005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <p>📬 <i>Feel free to explore my repositories or connect with me!</i></p>
+</div>
